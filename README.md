@@ -7,4 +7,4 @@ head pointer will always point to the first node
 tail pointer points to the last node  
 cannot access a value directly  
 each node contains of data and node pointer  
-
+To sort a linked list ,put the values in a list, sort it and then put them back into the linked list  
